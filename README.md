@@ -13,4 +13,4 @@ I'm a Frontend Developer working with React, Next.js, TypeScript, and more. Pass
 - Exploring GraphQL and how to integrate it with frontend apps
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/diyarhussein)
+- [LinkedIn](https://www.linkedin.com/in/diyar-hussein/)
